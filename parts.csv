@@ -1,0 +1,4 @@
+name,length,width,margin,hole_diameter,rows,cols,material,thickness
+plate_A,120,80,10,6,3,4,MS,5
+plate_B,200,100,12,8,4,7,Al,6
+flange_C,150,90,8,5,3,5,SS,4
