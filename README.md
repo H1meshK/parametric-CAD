@@ -20,9 +20,9 @@ smart-part-generator/
 ├─ smart_part_generator.py
 ├─ requirements.txt
 ├─ README.md
-├─ parts.csv                  # sample batch file
-├─ outputs/                   # your DXFs will appear here
-└─ examples/                  # (optional) screenshots later
+├─ parts.csv              
+├─ outputs/                   
+└─ examples/                  
 ```
 
 ## 🧪 Quick Examples
